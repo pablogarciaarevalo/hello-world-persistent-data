@@ -4,8 +4,8 @@ labels:
   template: hello-world-persistent-data-example
 message: |-
   The following service(s) have been created in your project: ${NAME}.
-
-  For more information about using this template, including OpenShift considerations, see https://github.com/pablogarciaarevalo/hello-world-persistent-data/blob/master/README.md.
+  For more information about using this template, including OpenShift considerations, 
+  see https://github.com/pablogarciaarevalo/hello-world-persistent-data/blob/master/README.md.
 metadata:
   annotations:
     description: A hello world HTTP server example using persistent data. For more information 
